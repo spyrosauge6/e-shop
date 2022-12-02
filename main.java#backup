@@ -1,0 +1,52 @@
+
+public class main
+{
+    public static void main(String[] Args)
+    {
+         /*Owner w1 = new Owner("drtmisk1@gmail.com","Misk");
+        Eshop shop1 = new Eshop("Niaousta",w1);
+        Buyer b1 = new Buyer("trelopapatas@gmail.com", "Manias");
+        Buyer b2 = new Buyer("trelopapatasxas@gmail.com", "Mangas");
+        Pen p1 = new Pen("Stylo", 10 , "Pouli kalo" , 100 , 193841, "Black", 21); 
+        Pencil pe1 = new Pencil("Molyvi", 10 , "Pouli kalo" , 500 , 123841, 6.7 , Pencil.type.H); 
+        ShoppingCard sc1 = new ShoppingCard();
+        Notebook n1 = new Notebook("Lenovo",4,"Kalo!",100,1067429,3);
+        
+        
+        
+        shop1.addBuyer(b1); 
+        shop1.addBuyer(b2);
+        itemOrdered it1 = new itemOrdered(p1,3);
+        itemOrdered it2 = new itemOrdered(pe1,1);
+        itemOrdered it3 = new itemOrdered(pe1,1);
+        itemOrdered it4 = new itemOrdered(p1,15);
+        
+        //itemOrdered it4 = new itemOrdered(pe1,10);
+        sc1.addItemOrdered(it1);
+        sc1.addItemOrdered(it2);
+        sc1.addItemOrdered(it3);
+        
+        
+        
+        System.out.println("Stock p1 : " +p1.getStock() + "Stock p2: " +pe1.getStock());
+        sc1.addItemOrdered(it3);
+        sc1.addItemOrdered(it4);
+        System.out.println("Stock = " + p1.getStock());
+        System.out.println("Bonus : " + b1.getBonus() );
+        System.out.println("Category : " + b1.getCategory());
+        b1.setBonus(500);
+        sc1.showCart();
+        sc1.checkout(b1);
+    
+        
+       
+        System.out.println("Category : " + b1.getCategory());
+        System.out.println("Shipping : " + b1.getShipping());
+   
+        
+        */
+
+    }
+
+
+}

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ShoppingCard
+comment1.params=itemOrd
+comment1.target=void\ addItemOrdered(itemOrdered)
+comment10.params=
+comment10.target=ShoppingCard()
+comment2.params=itemOrd
+comment2.target=void\ removeItemOrdered(itemOrdered)
+comment3.params=num
+comment3.target=itemOrdered\ viewOrderedItemByOrder(int)
+comment4.params=
+comment4.target=void\ clearCart()
+comment5.params=b1
+comment5.target=void\ checkout(Buyer)
+comment6.params=
+comment6.target=double\ calculateNet()
+comment7.params=b1
+comment7.target=double\ calculateCourierCost(Buyer)
+comment8.params=es1\ itemOrd\ newQuantity
+comment8.target=void\ changeItemOrderedQuantity(Eshop,\ itemOrdered,\ int)
+comment9.params=
+comment9.target=void\ showCart()
+numComments=11
